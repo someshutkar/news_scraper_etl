@@ -7,13 +7,3 @@ webdriver-manager==4.0.1
 apscheduler==3.10.1
 python-dotenv==1.0.
 
-Google Sheet Configuration: 
-1.1 Create a Google Cloud Project
-1.2 Enable Google Sheets API
-1.3 Create a Service Account & Get Credentials
-Download JSON File
-This will give you a JSON file (e.g., fintech-news.json). Keep it safe.
-1.4 Share Access with Google Sheet
-Create a Google Sheet manually in your Google Drive.
-Share the sheet with the email in your JSON credentials (it looks like your-service@your-project.iam.gserviceaccount.com).
-Give it Editor permissions.
