@@ -23,5 +23,6 @@ AWS EC2 Configuration:
 2. update the shell
 3. install python and create virtual environment
 4. upload the json file 
-5. create python script and done
+5. create python script and run it 
+6. done now it will automate news_fetching every 30 minute
 
